@@ -10,6 +10,13 @@
    
     /* border: 1px solid greenyellow; */
 }
+.banner{
+    padding-top: 90px;
+    padding-bottom: 60px;
+}
+.text-size h1{
+    font-size: 2rem;
+}
 .image-card{
     /* position:relative; */
     /* width: 300px; */
